@@ -1,0 +1,26 @@
+Considerações importantes desse projeto.
+
+Tecnlogias utilizadas:
+
+JPQL com Hibernate (SQL direto pra Java) para persistência
+
+JSF para as telas front end.
+
+Feito o CRUD normal como foi pedido.
+
+IDE: Netbeans
+
+Banco de Dados SQL: Postgres
+
+Servidor de aplicação: Tomcat.
+
+Banco de Dados criado: ClienteBD 
+
+Senha do BD: 12345678
+
+
+
+localhost: 8080/Clientes
+
+
+Foi o que deu para ser feito em poucos dias, funcional, beleza de tela.
